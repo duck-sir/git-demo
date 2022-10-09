@@ -7,5 +7,6 @@ hello word !
 hello word !
 hello word !
 hello word ! master test
+hello word ! hot-fix test
 自己手动修改文件
 hot-fix first change
