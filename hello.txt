@@ -5,7 +5,7 @@ hello word !
 hello word !
 hello word !
 hello word !
-hello word !
+hello word ! hot-fix test
 hello word !
 自己手动修改文件
 hot-fix first change
