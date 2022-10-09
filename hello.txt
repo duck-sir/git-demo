@@ -8,4 +8,4 @@ hello word !
 hello word !
 hello word ! master test
 hello word ! hot-fix test
-hot-fix first change 12345
+hot-fix first change 67890
