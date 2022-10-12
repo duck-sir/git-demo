@@ -8,6 +8,6 @@ console.log('G')
 console.log('i')
 console.log('t')
 console.log('h')
-console.log('o')
+console.log('h')
 console.log('b')
 // v2.0.0
