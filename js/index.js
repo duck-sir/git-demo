@@ -11,3 +11,4 @@ console.log('h')
 console.log('o')
 console.log('b')
 // v2.0.0
+console.log('!')
